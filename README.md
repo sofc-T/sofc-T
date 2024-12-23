@@ -23,7 +23,7 @@
 <h3 align="center" height="1000"></h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofc-t&theme=dark&hide_border=true" height="270" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sofc-t&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" height="270" alt="streak graph"  />
  <div align="center">
    
   <img src="https://github-readme-stats.vercel.app/api?username=sofc-t&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
