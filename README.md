@@ -10,7 +10,7 @@
 💻 Developer navigating both Frontend aesthetics and Backend logic, mastering projects big and small.<br/>
 🌍 Open Source advocate – believing in the power of community-driven innovation.<br/>
 🌌 Busy but open to discuss physics.<br/>
-📧 Reach me at: sofstzz@gmail.com<br/>
+📧 Reach me at: <a href="mailto:sofstzz@gmail.com"> sofstzz@gmail.com </a> <br/>
 
 
 <!--
