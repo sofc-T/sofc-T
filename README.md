@@ -7,8 +7,8 @@
 <p align="left">
 </p>
 <h3 align="center">Turn concepts into code, code with passion!</h3>
-💻 Developer navigating both Frontend aesthetics and Backend logic, mastering projects big and small.<br/>
-🌍 Open Source advocate – believing in the power of community-driven innovation.<br/>
+💻 Crafting seamless user experiences and robust backend systems, bringing ideas to life.<br/>
+🌍 Open Source Exponent - empowering innovation through collaboration.<br/>
 🌌 Busy but open to discuss physics.<br/>
 📧 Reach me at: <a href="mailto:sofstzz@gmail.com"> sofstzz@gmail.com </a> <br/>
 
