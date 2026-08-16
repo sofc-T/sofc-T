@@ -1,13 +1,11 @@
 
 <h3 align="center" height="1000"></h3>
 
-<h1 align="left">👋Hey there, I'm Sofonyas</h1>
 <img align="right" alt="Codging With love" width="200" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0">
 
 <p align="left">
 </p>
-<h3 align="center">Turn concepts into code, code with passion!</h3>
-💻 Crafting seamless user experiences and robust backend systems, bringing ideas to life.<br/>
+
 🌍 Open Source Exponent - empowering innovation through collaboration.<br/>
 🌌 Busy but open to discuss physics.<br/>
 📧 Reach me at: <a href="mailto:sofstzz@gmail.com"> sofstzz@gmail.com </a> <br/>
